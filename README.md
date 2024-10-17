@@ -31,4 +31,6 @@ const clickPushHandler = () => {
       console.log('푸시 승인됨');
     }
   });
-};
+}
+
+
